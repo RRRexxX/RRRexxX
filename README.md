@@ -2,6 +2,7 @@
 
 I'm Renyuan Ren.
 It's from iPad.
+It's from RazerBlade.
 
 <!--
 **RRRexxX/RRRexxX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
